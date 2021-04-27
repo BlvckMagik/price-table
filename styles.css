@@ -1,0 +1,18 @@
+.block {
+  width: 380px;
+  height: 770px;
+}
+* {
+  box-sizing: border-box;
+}
+
+.page {
+  width: 100vw;
+  height: 100vh;
+  background-color: #141b1c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
