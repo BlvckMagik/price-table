@@ -79,6 +79,18 @@
   &__list-img {
     margin-left: 22px;
     margin-right: 22px;
+    width: 15px;
+    height: 13px;
+    display: inline-block;
+  }
+  &__list-img-green {
+    background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png);
+  }
+  &__list-img-blue {
+    background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png);
+  }
+  &__list-img-orange {
+    background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png);
   }
 
   &__button {
